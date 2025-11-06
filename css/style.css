@@ -825,3 +825,85 @@ body {
 }
 
 /* ===== WhatsApp Floating Button End ===== */
+
+
+/* contact */
+.aboutbg2 {
+    background-image: url(../images/footerbgimg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    height: 400px;
+}
+.heaname h2 {
+     font-family: 'League Spartan';
+    font-size: 70px;
+    color: #fff;
+    text-transform: capitalize;
+    font-weight: 900;
+    text-align: center;
+    padding-top: 80px;
+}
+.sec-cont-hh {
+     font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: #fff;
+}
+.sec-cont-pp {
+   font-family: 'League Spartan';
+    font-weight: 400;
+    font-size: 20px;
+    color: #fff;
+    padding-bottom: 20px;
+}
+.form-group label {
+    color: #fff;
+}
+.form-group {
+    margin-bottom: 15px;
+}
+.contbgg {
+    background: #fff;
+    padding: 20px;
+}
+.sec-cont-hh2 {
+     font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    color: #000;
+}
+.seccont-add-h span i {
+    color: #F50000;
+}
+.iconsc i {
+     color: #F50000;
+}
+.seccont-add-h {
+   font-family: 'League Spartan';
+    font-size: 20px;
+    line-height: 150%;
+    font-weight: 700;
+    color: #000000;
+}
+.seccont-add-p  {
+   font-family: 'League Spartan';
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000 !important;
+    text-decoration: none;
+}
+.seccont-add-p a {
+   font-family: 'League Spartan';
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000 !important;
+    text-decoration: none;
+}
+.secandclass22 {
+    padding-bottom: 50px;
+}
+
+/* contact end */
