@@ -968,3 +968,37 @@ body {
 .secimgm img{
   width: 100%;
 }
+/* ===== Privacy Policy Page Styling ===== */
+.policy-content {
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.8;
+    font-size: 16px;
+}
+
+.policy-content h4,
+.policy-content h5 {
+    color: #ffffff;
+    font-weight: 600;
+}
+
+.policy-content ul {
+    padding-left: 20px;
+}
+
+.policy-content ul li {
+    margin-bottom: 6px;
+}
+
+.policy-content a {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+.policy-content a:hover {
+    color: #cccccc;
+}
+
+.policy-content .text-muted {
+    color: #e0e0e0 !important;
+}
