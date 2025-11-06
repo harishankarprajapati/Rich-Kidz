@@ -1,0 +1,279 @@
+/* -------1920--------- */
+
+@media only screen and (min-width:1920px) {
+
+  .container-fluid {
+    width: 1903px;
+    margin: auto;
+  }
+
+}
+
+@media only screen and (max-width:1024px) {}
+
+@media only screen and (max-width:992px) {
+  .mobilesec {
+    display: block;
+    background-color: #090A06;
+  }
+
+  .dasktopsec {
+    display: none;
+  }
+
+  .car-area {
+    max-width: 600px;
+  }
+
+  .tag {
+    font-size: 13px;
+    padding: 5px 10px;
+  }
+
+  .tag-4 {
+    left: 0;
+  }
+
+  button.navbar-toggler {
+    border: 1px solid #F50000;
+    height: 46px;
+    margin-top: 25px;
+  }
+
+  .offcanvas-header {
+    background: #F50000;
+  }
+
+  button.btn-close.btn-close-white.text-reset {
+    opacity: 1;
+  }
+
+  .headermenusec {
+    color: #000;
+  }
+}
+
+
+@media only screen and (max-width:768px) {
+  .car-area {
+    max-width: 90%;
+  }
+
+  .tag {
+    font-size: 12px;
+    padding: 4px 8px;
+    position: static;
+    backdrop-filter: blur(2px);
+    border: 1px solid #ff2b2b;
+    color: #fff;
+  }
+
+  .tag-1 {
+    top: -5%;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .tag-2 {
+    top: 15%;
+    right: 5%;
+  }
+
+  .tag-3 {
+    top: 45%;
+    left: 5%;
+  }
+
+  .tag-4 {
+    bottom: 22%;
+    left: 5%;
+  }
+
+  .tag-5 {
+    bottom: 5%;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .testimonial-card {
+    max-width: 90%;
+    padding: 20px;
+  }
+
+  .contact-item {
+    align-items: center;
+    gap: 15px;
+  }
+
+  .contact-text h5 {
+    font-size: 15px;
+  }
+
+  .contact-text p {
+    font-size: 14px;
+  }
+
+  .secheading h3 {
+    font-size: 40px;
+  }
+
+  a.navbar-brand.secmainlogo {
+    width: 67%;
+  }
+
+  button.navbar-toggler {
+    border: 1px solid #F50000;
+    height: 46px;
+    margin-top: 25px;
+  }
+
+  .offcanvas-header {
+    background: #F50000;
+  }
+
+  button.btn-close.btn-close-white.text-reset {
+    opacity: 1;
+  }
+
+  .headermenusec {
+    color: #000;
+  }
+
+  .secarbg {
+    margin-top: 0px;
+  }
+
+  .tag {
+    margin-bottom: 10px !important;
+  }
+
+  .secdesp {
+    width: 100%;
+    padding-top: 20px;
+  }
+
+  .secbobrg {
+    margin-top: 0px;
+  }
+
+  .sectextnubbg {
+    text-align: end;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .secbobrg2 {
+    margin-top: 0px;
+  }
+
+  .secdesp p {
+    font-size: 18px;
+  }
+  .secherbg {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.secservbg {
+    padding: 40px 0px 0px 0px;
+}
+.sertexthed {
+    font-size: 35px;
+}
+.secsertrx2 {
+    padding-top: 20px;
+}
+
+.custom-btn {
+    font-size: 16px;
+}
+.secimgbg {
+    padding-top: 40px;
+    padding-bottom: 60px;
+}
+.marsersec {
+    padding: 0;
+}
+.secservbg::before {
+    top: 15%;
+}
+.secgalleybg {
+    padding-top: 60px;
+    padding-bottom: 0px;
+}
+.secseetext {
+    font-size: 35px;
+    padding-bottom: 20px;
+}
+.secbggalmai::before {
+    background: linear-gradient(183deg, #ff0000, #000);
+}
+.secpaddap {
+    padding-right: 0px;
+    padding-bottom: 30px;
+}
+.testimonialsbg {
+    padding: 60px 10px 0px 10px;
+}
+.secappbgco {
+    padding: 30px 20px;
+}
+.secappbgco h2 {
+    margin: 0;
+    font-size: 35px;
+}
+.appointmentbg {
+    padding: 60px 10px 0px 10px;
+}
+.secjintext {
+    font-size: 25px;
+    padding-top: 10px;
+}
+.secpadff {
+    padding-left: 10px;
+}
+.sechesfoottext {
+    padding-top: 40px;
+}
+.secpadff2 {
+    padding-left: 10px;
+}
+}
+
+@media only screen and (max-width:480px) {
+
+  .tag {
+    font-size: 11px;
+    padding: 3px 7px;
+  }
+
+  .tag-1 {
+    top: -10%;
+  }
+
+  .tag-2 {
+    top: 10%;
+    right: 5%;
+  }
+
+  .tag-3 {
+    top: 48%;
+    left: 5%;
+  }
+
+  .tag-4 {
+    bottom: 18%;
+    left: 5%;
+  }
+
+  .tag-5 {
+    bottom: 3%;
+  }
+
+
+}
+
+@media only screen and (max-width:380px) {}
+
+
+@media only screen and (max-width:320px) {}
