@@ -254,7 +254,20 @@
 .form-group {
     padding: 0;
 }
-
+.secabbdesfl {
+    display: flex;
+    flex-direction: column-reverse;
+}
+.about-image::before {
+    top: -16px;
+    right: -16px;
+}
+.secabouttext {
+    padding-top: 30px;
+}
+.secvisbgg {
+    padding: 50px 10px;
+}
 }
 
 @media only screen and (max-width:480px) {

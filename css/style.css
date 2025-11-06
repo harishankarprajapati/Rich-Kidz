@@ -907,3 +907,61 @@ body {
 }
 
 /* contact end */
+
+/* about */
+.about-image {
+      position: relative;
+      display: inline-block;
+      border-radius: 6px;
+    }
+
+    .about-image::before {
+      content: "";
+      position: absolute;
+      top: -30px;
+      right: -30px;
+      bottom: 40px;
+      left: 40px;
+      background: #F50000;
+      z-index: 0;
+    }
+    .about-image img {
+      position: relative;
+      z-index: 1;
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+.secabouttext h3 {
+   font-family: 'League Spartan';
+    font-size: 40px;
+    font-weight: 600;
+    color: #fff;
+    text-transform: uppercase;
+}
+.secabouttext p {
+    color: #fff;
+      font-family: 'League Spartan';
+    font-size: 20px;
+}
+.secvisbgg {
+    background-color: #25201B;
+    padding: 50px 100px;
+    margin-top: -3px;
+}
+.secvisintext {
+  font-family: 'League Spartan';
+    font-size: 60px;
+    color: #fff;
+    font-weight: 700;
+}
+.secvisintext2 {
+    color: #fff;
+     font-family: 'League Spartan';
+    font-size: 20px;
+}
+.marrabout {
+    background-color: #030303;
+    padding: 60px 10px 60px 10px;
+    
+}
