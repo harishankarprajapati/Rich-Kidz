@@ -1,6 +1,6 @@
 // ===== Site Data =====
 const siteData = {
-    siteName: "Rich Kidz",
+    siteName: "Rich Kidz Detailing Studio",
     phonesit: "+91 7710355519",
     phonesit2: "+91 7710655519",
     timeopen: "9:30 AM – 8:00 PM (All Days Open)",
