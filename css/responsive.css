@@ -50,101 +50,132 @@
   .headermenusec {
     color: #000;
   }
-      .secheading h3 {
-        font-size: 55px;
-    }
-    .secbobrg2 {
+
+  .secheading h3 {
+    font-size: 55px;
+  }
+
+  .secbobrg2 {
     margin-top: 30px;
-}
-.secbobrg {
+  }
+
+  .secbobrg {
     margin-top: -50px;
-}
-.secdesp {
+  }
+
+  .secdesp {
     width: 90%;
-}
-.sertexthed {
+  }
+
+  .sertexthed {
     font-size: 30px;
-}
-.custom-btn {
+  }
+
+  .custom-btn {
     font-size: 12px;
-}
-.secsertrx2 {
+  }
+
+  .secsertrx2 {
     font-size: 13px;
-}
-.secsertex h4 {
+  }
+
+  .secsertex h4 {
     font-size: 16px;
-}
-.secsertex p {
+  }
+
+  .secsertex p {
     font-size: 13px;
-}
-.secimgbg {
+  }
+
+  .secimgbg {
     padding-top: 40px;
-}
-.secbgser p {
+  }
+
+  .secbgser p {
     font-size: 20px;
-}
-.secbgser i {
+  }
+
+  .secbgser i {
     font-size: 40px;
-}
-.secbggalmai {
+  }
+
+  .secbggalmai {
     padding: 20px;
-}
-.secseetext {
+  }
+
+  .secseetext {
     font-size: 30px;
-}
-.secpaddap {
+  }
+
+  .secpaddap {
     padding-right: 60px;
-}
-.secappbgco {
+  }
+
+  .secappbgco {
     padding: 20px;
-}
-.secappbgco h2 {
+  }
+
+  .secappbgco h2 {
     font-size: 30px;
-}
-.secappbgco input {
+  }
+
+  .secappbgco input {
     margin-bottom: 15px;
     height: 35px;
-}
-.secpadff {
+  }
+
+  .secpadff {
     padding-left: 10px;
-}
-.secjintext {
+  }
+
+  .secjintext {
     font-size: 18px;
-}
-.secfottextlin p a {
+  }
+
+  .secfottextlin p a {
     font-size: 16px;
-}
-.secpadff2 {
+  }
+
+  .secpadff2 {
     padding-left: 10px;
-}
-.sechesfoottext { 
+  }
+
+  .sechesfoottext {
     font-size: 20px;
-}
-.secpaacont2 {
+  }
+
+  .secpaacont2 {
     padding-top: 40px;
-}
-    .secabbdesfl {
-        display: flex;
-        flex-direction: column-reverse;
-    }
-    .secabouttext {
+  }
+
+  .secabbdesfl {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+  .secabouttext {
     padding-top: 20px;
-}
-.secvisbgg {
+  }
+
+  .secvisbgg {
     padding: 50px 30px;
-}
-.secvisintext {
+  }
+
+  .secvisintext {
     font-size: 45px;
-}
-a.navbar-brand.secmainlogo {
+  }
+
+  a.navbar-brand.secmainlogo {
     width: 30%;
-}
-.secboxbg h4 {
+  }
+
+  .secboxbg h4 {
     font-size: 40px;
-}
-.secboxbg p {
+  }
+
+  .secboxbg p {
     font-size: 18px;
-}
+  }
 }
 
 
@@ -152,15 +183,19 @@ a.navbar-brand.secmainlogo {
   .secsertex p {
     font-size: 16px;
   }
-      .secsertex h4 {
-        font-size: 20px;
-    }
-        .sechesfoottext {
-        font-size: 24px;
-    }
-        .secfottextlin p a {
-        font-size: 19px;
-    }
+
+  .secsertex h4 {
+    font-size: 20px;
+  }
+
+  .sechesfoottext {
+    font-size: 24px;
+  }
+
+  .secfottextlin p a {
+    font-size: 19px;
+  }
+
   .car-area {
     max-width: 90%;
   }
@@ -276,104 +311,132 @@ a.navbar-brand.secmainlogo {
   .secdesp p {
     font-size: 18px;
   }
+
   .secherbg {
     padding-left: 0px;
     padding-right: 0px;
-}
-.secservbg {
-    padding: 40px 0px 0px 0px;
-}
-.sertexthed {
-    font-size: 35px;
-}
-.secsertrx2 {
-    padding-top: 20px;
-}
+  }
 
-.custom-btn {
+  .secservbg {
+    padding: 40px 0px 0px 0px;
+  }
+
+  .sertexthed {
+    font-size: 35px;
+  }
+
+  .secsertrx2 {
+    padding-top: 20px;
+  }
+
+  .custom-btn {
     font-size: 16px;
-}
-.secimgbg {
+  }
+
+  .secimgbg {
     padding-top: 40px;
     padding-bottom: 60px;
-}
-.marsersec {
+  }
+
+  .marsersec {
     padding: 0;
-}
-.secservbg::before {
+  }
+
+  .secservbg::before {
     top: 15%;
-}
-.secgalleybg {
+  }
+
+  .secgalleybg {
     padding-top: 60px;
     padding-bottom: 0px;
-}
-.secseetext {
+  }
+
+  .secseetext {
     font-size: 35px;
     padding-bottom: 20px;
-}
-.secbggalmai::before {
+  }
+
+  .secbggalmai::before {
     background: linear-gradient(183deg, #ff0000, #000);
-}
-.secpaddap {
+  }
+
+  .secpaddap {
     padding-right: 0px;
     padding-bottom: 30px;
-}
-.testimonialsbg {
+  }
+
+  .testimonialsbg {
     padding: 60px 10px 0px 10px;
-}
-.secappbgco {
+  }
+
+  .secappbgco {
     padding: 30px 20px;
-}
-.secappbgco h2 {
+  }
+
+  .secappbgco h2 {
     margin: 0;
     font-size: 35px;
-}
-.appointmentbg {
+  }
+
+  .appointmentbg {
     padding: 60px 10px 0px 10px;
-}
-.secjintext {
+  }
+
+  .secjintext {
     font-size: 25px;
     padding-top: 10px;
-}
-.secpadff {
+  }
+
+  .secpadff {
     padding-left: 10px;
-}
-.sechesfoottext {
+  }
+
+  .sechesfoottext {
     padding-top: 40px;
-}
-.secpadff2 {
+  }
+
+  .secpadff2 {
     padding-left: 10px;
-}
-    .heaname h2 {
-        font-size: 60px;
-        padding-top: 100px;
-    }
-    .secandclass22 {
+  }
+
+  .heaname h2 {
+    font-size: 60px;
+    padding-top: 100px;
+  }
+
+  .secandclass22 {
     padding: 0px 0px 50px 0px;
-}
-.container.memversecb {
+  }
+
+  .container.memversecb {
     padding: 0;
-}
-.secpaacont {
+  }
+
+  .secpaacont {
     padding-bottom: 40px;
-}
-.form-group {
+  }
+
+  .form-group {
     padding: 0;
-}
-.secabbdesfl {
+  }
+
+  .secabbdesfl {
     display: flex;
     flex-direction: column-reverse;
-}
-.about-image::before {
+  }
+
+  .about-image::before {
     top: -16px;
     right: -16px;
-}
-.secabouttext {
+  }
+
+  .secabouttext {
     padding-top: 30px;
-}
-.secvisbgg {
+  }
+
+  .secvisbgg {
     padding: 50px 10px;
-}
+  }
 }
 
 @media only screen and (max-width:480px) {
