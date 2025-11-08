@@ -50,10 +50,117 @@
   .headermenusec {
     color: #000;
   }
+      .secheading h3 {
+        font-size: 55px;
+    }
+    .secbobrg2 {
+    margin-top: 30px;
+}
+.secbobrg {
+    margin-top: -50px;
+}
+.secdesp {
+    width: 90%;
+}
+.sertexthed {
+    font-size: 30px;
+}
+.custom-btn {
+    font-size: 12px;
+}
+.secsertrx2 {
+    font-size: 13px;
+}
+.secsertex h4 {
+    font-size: 16px;
+}
+.secsertex p {
+    font-size: 13px;
+}
+.secimgbg {
+    padding-top: 40px;
+}
+.secbgser p {
+    font-size: 20px;
+}
+.secbgser i {
+    font-size: 40px;
+}
+.secbggalmai {
+    padding: 20px;
+}
+.secseetext {
+    font-size: 30px;
+}
+.secpaddap {
+    padding-right: 60px;
+}
+.secappbgco {
+    padding: 20px;
+}
+.secappbgco h2 {
+    font-size: 30px;
+}
+.secappbgco input {
+    margin-bottom: 15px;
+    height: 35px;
+}
+.secpadff {
+    padding-left: 10px;
+}
+.secjintext {
+    font-size: 18px;
+}
+.secfottextlin p a {
+    font-size: 16px;
+}
+.secpadff2 {
+    padding-left: 10px;
+}
+.sechesfoottext { 
+    font-size: 20px;
+}
+.secpaacont2 {
+    padding-top: 40px;
+}
+    .secabbdesfl {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .secabouttext {
+    padding-top: 20px;
+}
+.secvisbgg {
+    padding: 50px 30px;
+}
+.secvisintext {
+    font-size: 45px;
+}
+a.navbar-brand.secmainlogo {
+    width: 30%;
+}
+.secboxbg h4 {
+    font-size: 40px;
+}
+.secboxbg p {
+    font-size: 18px;
+}
 }
 
 
-@media only screen and (max-width:768px) {
+@media only screen and (max-width:767px) {
+  .secsertex p {
+    font-size: 16px;
+  }
+      .secsertex h4 {
+        font-size: 20px;
+    }
+        .sechesfoottext {
+        font-size: 24px;
+    }
+        .secfottextlin p a {
+        font-size: 19px;
+    }
   .car-area {
     max-width: 90%;
   }
