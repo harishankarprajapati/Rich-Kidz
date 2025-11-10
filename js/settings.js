@@ -3,7 +3,7 @@ const siteData = {
     siteName: "Rich Kidz Detailing Studio",
     phonesit: "+91 7710355519",
     phonesit2: "+91 7710655519",
-    timeopen: "9:30 AM – 8:00 PM (All Days Open)",
+    timeopen: "9:30 AM – 9:30 PM (All Days Open)",
     email: "info@richkidz.in",
     address: "503-A, Model Town Extension., Adjn. Spacex Gym, Near New Krishna Mandir, Ludhiana, Punjab, 141002",
     aboutText: "Welcome to Rich Kidz – shaping creativity and confidence in every child."
