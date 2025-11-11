@@ -6,6 +6,10 @@
     width: 1903px;
     margin: auto;
   }
+  
+.secheading {
+  padding-bottom: 400px;
+}
 }
 
 @media only screen and (max-width:1024px) {}
