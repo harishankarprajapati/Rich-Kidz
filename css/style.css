@@ -1012,3 +1012,25 @@ body {
 .policy-content .text-muted {
     color: #e0e0e0 !important;
 }
+.seccarhome .owl-nav{
+  display: none;
+}
+.seccarhome .owl-dots {
+    text-align: center;
+    margin-top: -60px;
+    margin-bottom: 20px;
+    z-index: 9;
+}
+
+.seccarhome button.owl-dot {
+    width: 10px;
+    height: 12px;
+    color: #fff;
+    background: #fff !important;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+
+.seccarhome button.owl-dot.active {
+    background: #F50000 !important;
+}
