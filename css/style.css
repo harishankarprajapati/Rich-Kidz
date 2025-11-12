@@ -42,18 +42,20 @@ body {
   color: #F50000 !important;
 }
 
-.secherbg {
-  background-image: url(../images/herbgimg.png);
-  background-repeat: no-repeat;
-  background-size: cover;
-  padding-bottom: 40px;
-}
-.secherbg2 {
+
+.secherbg1 {
   background-image: url(../images/homebgnew.png);
   background-repeat: no-repeat;
   background-size: cover;
   padding-bottom: 40px;
   background-position: center;
+}
+.secherbg2 {
+  background-image: url(../images/car2bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 40px;
+  background-position: top;
 }
 
 .car-area {
@@ -119,7 +121,6 @@ body {
 
 .secheading {
   padding-top: 40px;
-  padding-bottom: 170px;
 }
 
 .secheading h3 {
@@ -127,6 +128,7 @@ body {
   font-size: 70px;
   font-weight: 600;
   color: #fff;
+  padding-bottom: 180px;
 }
 
 .secarbg {
